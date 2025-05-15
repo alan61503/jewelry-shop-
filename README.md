@@ -20,7 +20,7 @@
 
 | Desktop View |
 |--------------|
-| ![Desktop Preview](path/to/desktop-screenshot.png) 
+| ![Desktop Preview](images/Screenshot%202025-05-15%20131330.png) 
 
 ---
 
